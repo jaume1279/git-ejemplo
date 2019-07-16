@@ -1,5 +1,6 @@
 Git inicio
 
+modificado desde master
 <<<<<<< HEAD
 modificado desde master
 =======
