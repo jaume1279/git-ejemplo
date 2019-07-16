@@ -1,6 +1,6 @@
 Git inicio
 
-modificado desde branch1 dos veces
+modificado desde branch1 tres veces
 <<<<<<< HEAD
 modificado desde master
 =======
