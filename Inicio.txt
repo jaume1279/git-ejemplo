@@ -1,10 +1,14 @@
 Git inicio
 
+<<<<<<< .merge_file_a01480
 <<<<<<< HEAD
 modificado desde master
 =======
 modificado desde branch1
 >>>>>>> Branch1
+=======
+modificado desde branch1 dos veces
+>>>>>>> .merge_file_a15380
 <<<<<<< HEAD
 modificado desde master
 =======
