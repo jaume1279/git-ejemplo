@@ -1,6 +1,6 @@
 Git inicio
 
-desde Bracnh2
+desde Branch1
 desde BranchNew
 desde master
 Ya bien ??
