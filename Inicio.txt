@@ -1,5 +1,6 @@
 Git inicio
 
+desde master
 Ya bien ??
 <<<<<<< HEAD
 <<<<<<< .merge_file_a01480
