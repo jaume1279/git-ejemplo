@@ -1,9 +1,0 @@
-diff a/Inicio.txt b/Inicio.txt	(rejected hunks)
-@@ -1,6 +1,6 @@
- Git inicio
- 
--modificado desde branch1
-+modificado desde branch1 dos veces
- <<<<<<< HEAD
- modificado desde master
- =======
