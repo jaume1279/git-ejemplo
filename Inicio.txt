@@ -1,6 +1,10 @@
 Git inicio
 
+<<<<<<< HEAD
 modificado desde master
+=======
+modificado desde branch1
+>>>>>>> Branch1
 <<<<<<< HEAD
 modificado desde master
 =======
